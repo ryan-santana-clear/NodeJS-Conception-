@@ -2,6 +2,9 @@
 {"_id":"Kp5Sza5SjrT8rGGo"}
 {"name":"Test","email":"test@test.com.br","password":"test","_id":"XZxEuaq9KgzYyxDk"}
 {"_id":"XjQWJP4L4pfvAiOn"}
-{"name":"Tester 2","email":"test@test.com.br","password":"tester2","_id":"g1YZiQBSKEWexYjR"}
-{"_id":"p6pLra3PkhMs0RjW"}
 {"name":"Tester 2 test","email":"test@test.com.br","password":"tester2test","_id":"g1YZiQBSKEWexYjR"}
+{"_id":"p6pLra3PkhMs0RjW"}
+{"$$deleted":true,"_id":"8UuTwVfgxbseRAtj"}
+{"$$deleted":true,"_id":"p6pLra3PkhMs0RjW"}
+{"$$deleted":true,"_id":"Kp5Sza5SjrT8rGGo"}
+{"$$deleted":true,"_id":"XjQWJP4L4pfvAiOn"}
